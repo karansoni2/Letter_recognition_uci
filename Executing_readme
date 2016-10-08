@@ -1,0 +1,11 @@
+INITIAL Result:-
+Well, i used WEKA's Clustering(Simple UI, almost no coding) at first:
+Accuracy= 55 to 65% 
+Conclusion= Not Satisfactory(Since not good enough i haven't uploaded any result from it)
+
+Improved Results:-
+
+I found OpenCV's implementation of OCR of Hand-written Data using kNN
+link: http://docs.opencv.org/trunk/d8/d4b/tutorial_py_knn_opencv.html
+
+Result: accuracy of 93.22%
