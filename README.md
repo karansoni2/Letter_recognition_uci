@@ -32,4 +32,8 @@ Attribute Information:
 17.	yegvx	correlation of y-ege with x	(integer)
 
 Result attribute
+
 prediction - Possible values- 0=NO 1=YES
+
+Error Calculation:
+Based on Result attribute generated.
